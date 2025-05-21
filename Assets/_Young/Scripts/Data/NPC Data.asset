@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cb26003400426847ac725331a9485c5, type: 3}
+  m_Name: NPC Data
+  m_EditorClassIdentifier: 
+  nameData:
+    firstNames:
+    - "\uC784"
+    - "\uBC15"
+    - "\uAE40"
+    - "\uC11C"
+    - "\uC2E0"
+    - "\uD64D"
+    - "\uCD5C"
+    - "\uBC15"
+    - "\uC2E0"
+    lastNames:
+    - "\uC601\uD6C8"
+    - "\uCCA0\uC218"
+    - "\uC6B0\uC8FC"
+    - "\uD604\uC6B0"
+    - "\uD76C\uCC2C"
+    - "\uC601\uC131"
+    - "\uAC74\uC6B0"
+    - "\uC9C4\uD638"
+    - "\uC2DC\uD604"
+    - "\uC2DC\uC5F0"
+    - "\uB3D9\uAE30"
+    - "\uC608\uC900"
+    - "\uCC3D\uBBFC"
+    - "\uAC15\uBBFC"
+    - "\uAC15\uBBFC"
+    - "\uC9C0\uC218"
+    - "\uC608\uC9C0"
+    - "\uC11C\uC5F0"
+    - "\uBBFC\uC9C0"
+    - "\uC608\uBE48"
+    - "\uC9C4\uC11C"
+    - "\uC9C4\uC11D"
+  npcPrefabs:
+  - {fileID: 6496318918450622327, guid: ffa44376c0ae5eb4da0c6a7a94e0d9e0, type: 3}
+  - {fileID: 7239599921152024717, guid: 6479429a85a1bb54bb2df0e72b5d9b1a, type: 3}
+  - {fileID: 9200492097136774098, guid: f0d4fde320cfbc04891f432e23994929, type: 3}
+  - {fileID: 5669867774440475240, guid: 1043d6ec7fb32b14d89fe79c020649c4, type: 3}
+  - {fileID: 8856970950935866748, guid: 5800fdcc4c0effc47b557440f5f57fb4, type: 3}
+  - {fileID: 3191076029232494315, guid: 66f9da9d8a575f744bcd86fd6ef86303, type: 3}
+  normalStatTotal: 10
+  rareStatTotal: 20
+  epicStatTotal: 30
+  legendaryStatTotal: 40
+  npcEntries: []
